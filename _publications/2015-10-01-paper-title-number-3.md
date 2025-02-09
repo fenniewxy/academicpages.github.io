@@ -1,5 +1,5 @@
 ---
-title: Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs"
+title: Fast convolution meets low precision-Exploring efficient quantized Winograd convolution on modern CPUs"
 collection: publications
 permalink: /publication/2024-taco-fast
 excerpt: ''
