@@ -7,6 +7,6 @@ excerpt: 'This paper is about the automatic compute graph optimization.'
 date: 2025
 venue: 'ACM Transactions on Architecture and Code Optimization'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/2025-taco-optifix.pdf'
 citation: ''
 ---
