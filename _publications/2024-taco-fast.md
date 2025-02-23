@@ -2,7 +2,7 @@
 title: Fast convolution meets low precision-Exploring efficient quantized Winograd convolution on modern CPUs"
 collection: publications
 permalink: /publication/2024-taco-fast
-excerpt: ''
+excerpt: 'This paper is about the fast Winograd on Intel AVX-512.'
 date: 2024
 venue: 'ACM Transactions on Architecture and Code Optimization'
 slidesurl: 'http://academicpages.github.io'
