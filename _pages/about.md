@@ -23,6 +23,9 @@ I am always open to collaboration and look forward to engaging with fellow resea
 * Ph.D in Computer System Architecture, Institute of Computing Technology, Chinese Academy of Sciences, 2017 - 2023 (Advisor: [Feng Xiaobing](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496613.html))
 * B.S. in Software Engineering, Northeast Normal University, 2013 - 2017
 
+# Student Competition News
+* Congratulations! We have qualified for the ASC Student Challenge 2025 [Final Round](https://mp.weixin.qq.com/s/cRhgpgd7sdR7f1gmzgmW0Q). It's our first time participating in the ASC Student Challenge competition, and also the first time for BUPT appearing on the finalists list.
+* Our group 'OneLastCompiler' consist of 3 undergraduates achieved Third Price at National College Students Computer System Ability Competition -  Compilation system design Competition([2024全国大学生计算机系统能力大赛编译系统设计赛全国总决赛](https://mp.weixin.qq.com/s/QAGkyzMGqV6lS4EkyQFBXg)).
 
 # Representative Publications
 * **[TACO'25, CCF-A]** OptiFX: Automatic Optimization for Convolutional Neural Networks with Aggressive Operator Fusion on GPUs. **Xueying Wang**, Shigang Li, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, Guangli Li, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025.
