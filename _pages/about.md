@@ -13,22 +13,24 @@ Xueying Wang, Beijing University of Posts and Telecommunications, Posdoctor Rese
 
 # Brief Biography
 
-My academic journey started with the guidance of the distinguished Xiaobing Feng, under whose mentorship I completed my doctorate degree at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). My research interests are focused on parallel computing and compiler optimization for machine learning applications, including quantized Winograd convolution optimization(TACO,2024), hardware-aware NAS tuning (JSA, 2023), memory scheduling system(TACO,2023), and operator fusion(Euro-par, 2020). I am passionate about exploring how we can harness the power of parallel processing to solve complex computational problems and how compiler optimizations can further enhance the performance of these systems.
-
-I am always open to collaboration and look forward to engaging with fellow researchers, and students. Thank you for visiting, and if you have any questions or wish to discuss potential research opportunities, please do not hesitate to contact me.
+My academic journey started with the guidance of the distinguished Xiaobing Feng, under whose mentorship I completed my doctorate degree at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). 
+My research interests are focused on parallel computing and compiler optimization for machine learning applications, including quantized Winograd convolution optimization(TACO,2024), hardware-aware NAS tuning (JSA, 2023), memory scheduling system(TACO,2023), and operator fusion(Euro-par, 2020).
+I am also the reviewer for Neurocomputing, Journal of Systems Architecture, IEEE Cluster (CCF-B), IEEE TCAD (CCF-A) and other journals.
+I am passionate about exploring how we can harness the power of parallel processing to solve complex computational problems and how compiler optimizations can further enhance the performance of these systems, and always open to collaboration and look forward to engaging with fellow researchers, and students. 
+#Thank you for visiting, and if you have any questions or wish to discuss potential research opportunities, please do not hesitate to contact me.
 
 
 # Work  and Education Experience
 * Postdoctor at School of Computer science, Beijing University of Posts and Telecommunications, 2023 - Now (Co-advisor: [Li Shigang](https://shigangli.github.io/) )
 * Ph.D in Computer System Architecture, Institute of Computing Technology, Chinese Academy of Sciences, 2017 - 2023 (Advisor: [Feng Xiaobing](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496613.html))
-* B.S. in Software Engineering, Northeast Normal University, 2013 - 2017
+* B.S. in Software Engineering, Northeast Normal University (Projecti 211), 2013 - 2017
 
 # Student Competition News
 * Congratulations! We have qualified for the ASC Student Challenge 2025 [Final Round](https://mp.weixin.qq.com/s/cRhgpgd7sdR7f1gmzgmW0Q). It's our first time participating in the ASC Student Challenge competition, and also the first time for BUPT appearing on the finalists list.
 * Our group 'OneLastCompiler' consist of 3 undergraduates achieved Third Price at National College Students Computer System Ability Competition -  Compilation system design Competition([2024全国大学生计算机系统能力大赛编译系统设计赛全国总决赛](https://mp.weixin.qq.com/s/QAGkyzMGqV6lS4EkyQFBXg)).
 
 # Research Projects
-* China Postdoctoral Science Foundation, 75th China Postdoctoral Science Foundation(博后面上), 2024M750258, Research on Fusion quantitative Compilation Optimization Method for domestic smart chips, 2024-07 to date, 80,000 yuan, in research, Host
+* China Postdoctoral Science Foundation, 75th China Postdoctoral Science Foundation(75批博后面上), 2024M750258, Research on Fusion Quantitative Compilation Optimization Method for Domestic Smart Chips, 2024-07 to date, 80,000 yuan, in research, Host. (Acceptance Rate: 15%)
 
 
 # Representative Publications
