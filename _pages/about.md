@@ -15,12 +15,6 @@ Xueying Wang, Beijing University of Posts and Telecommunications, Posdoctor Rese
 
 Wang Xueying focuses on parallel computing and compiler optimization for machine learning applications, including graph compilation optimization (TACO, CCF-A, 2025), quantized Winograd convolution optimization(TACO, CCF-A, 2024), hardware-aware NAS tuning (JSA, CCF-B, 2023), memory scheduling system(TACO, CCF-A, 2023), and operator fusion(Euro-par, CCF-B, 2020). Wang Xueying is also the reviewer for Neurocomputing, Journal of Systems Architecture, IEEE Cluster, IEEE TCAD, and other journals. Wang Xueying is passionate about exploring how to improve parallel computing performance to solve complex computational problems, and how compiler optimizations can further enhance the performance of supercomputing systems.
 
-<!-- My academic journey started with the guidance of the distinguished Xiaobing Feng, under whose mentorship I completed my doctorate degree at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). 
-My research interests are focused on parallel computing and compiler optimization for machine learning applications, including quantized Winograd convolution optimization(TACO,2024), hardware-aware NAS tuning (JSA, 2023), memory scheduling system(TACO,2023), and operator fusion(Euro-par, 2020).
-I am also the reviewer for Neurocomputing, Journal of Systems Architecture, IEEE Cluster (CCF-B), IEEE TCAD (CCF-A) and other journals.
-I am passionate about exploring how we can harness the power of parallel processing to solve complex computational problems and how compiler optimizations can further enhance the performance of these systems, and always open to collaboration and look forward to engaging with fellow researchers, and students. 
-#Thank you for visiting, and if you have any questions or wish to discuss potential research opportunities, please do not hesitate to contact me.--!>
-
 
 # Work  and Education Experience
 * Postdoctor at School of Computer science, Beijing University of Posts and Telecommunications, 2023 - Now (Co-advisor: [Li Shigang](https://shigangli.github.io/) )
