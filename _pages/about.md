@@ -23,6 +23,7 @@ Wang Xueying focuses on parallel computing and compiler optimization for machine
 
 # Student Competition News
 * Congratulations! We have qualified for the ASC Student Challenge 2025 [Final Round](https://mp.weixin.qq.com/s/cRhgpgd7sdR7f1gmzgmW0Q). It's our first time participating in the ASC Student Challenge competition, and also the first time for BUPT appearing on the finalists list.
+* Congratulations again for our outstanding performance at ASC Student Challenge Final Round, we got [the third place and achieved the First Prize](https://mp.weixin.qq.com/s/PrJCIvHRnfeoSFpNAyH-XA)!
 * Our group 'OneLastCompiler' consist of 3 undergraduates achieved Third Price at National College Students Computer System Ability Competition -  Compilation system design Competition([2024全国大学生计算机系统能力大赛编译系统设计赛全国总决赛](https://mp.weixin.qq.com/s/QAGkyzMGqV6lS4EkyQFBXg)).
 
 # Research Projects
