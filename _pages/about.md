@@ -27,7 +27,7 @@ Wang Xueying focuses on parallel computing and compiler optimization for machine
 * Our group 'OneLastCompiler' consist of 3 undergraduates achieved Third Price at National College Students Computer System Ability Competition -  Compilation system design Competition([2024全国大学生计算机系统能力大赛编译系统设计赛全国总决赛](https://mp.weixin.qq.com/s/QAGkyzMGqV6lS4EkyQFBXg)).
 
 # Research Projects
-* China Postdoctoral Science Foundation, 75th China Postdoctoral Science Foundation(75批博后面上), 2024M750258, Research on Fusion Quantitative Compilation Optimization Method for Domestic Smart Chips, 2024-07 to date, 80,000 yuan, in research, Host. (Acceptance Rate: 15%)
+* China Postdoctoral Science Foundation, 75th China Postdoctoral Science Foundation(75批博后面上), 2024M750258, 2024-07 to date, 80,000 yuan, in research, Host. (Acceptance Rate: 15%)
 
 
 # Representative Publications
